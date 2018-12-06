@@ -1,0 +1,153 @@
+
+body {
+background-color : aliceblue;
+max-width: 1000px;
+  margin: auto;
+   padding: 10px;
+}
+
+
+#content {
+background-color : white;
+
+}
+
+
+.hp {
+padding-right:2.5%;
+float:right;
+color:black;
+
+}
+
+
+
+
+#title{
+padding-left:0%;
+padding-right:0%;
+font-weight:normal;
+}
+
+#title h1{
+border :4px dotted midnightblue;
+border-left-style:solid;
+border-right-style:none;
+border-bottom-width:1.25pt;
+border-top-width:1.25pt;
+border-left-width:5pt;
+padding-left:3%;
+color:midnightblue;
+width:90%;
+}
+
+
+.titleedit { width:35%; height:50px; font-size:36px; }
+.titlesubmit { width:15%; height:30px; }
+
+
+
+.fulledit { width:100%; height:50px; font-size:30px; }
+.fullsubmit { width:100%; height:30px; }
+
+
+#editor {
+border :4px solid #444;
+border-top-color:white;
+padding-left:2%;
+padding-right:2%;
+font-weight:normal;
+}
+
+
+
+
+#footer {
+background-color:aliceblue;
+padding-left:2%;
+}
+
+.fp {
+color : #666;
+}
+
+#sb {
+padding-left:0%;
+padding-right:0%;
+
+}
+
+.sbt {
+width:100%;
+height:5%;
+text-align:center;
+font-size:20px;
+}
+
+
+
+#loginarea {
+color:red;
+padding-left:20%;
+padding-right:20%;
+font-size:14pt;
+background-color : azure;
+}
+
+.loginusername {
+width:100%;
+height:35px;
+color:midnightblue;
+font-family:courier-new;
+font-size:30px;
+}
+
+.loginpassword {
+width:100%;
+height:35px;
+font-size:30px;
+}
+
+.loginsubmit {
+width:100%;
+height:35px;
+font-size:20px;
+color:white;
+background-color:midnightblue;
+font-family:courier-new;
+}
+
+
+
+#loginarea h1{
+border :4px dotted midnightblue;
+border-left-style:solid;
+border-right-style:none;
+border-bottom-width:1.25pt;
+border-top-width:1.25pt;
+border-left-width:5pt;
+padding-left:3%;
+color:midnightblue;
+width:100%;
+font-family:courier-new;
+}
+
+.dt {
+width:100%;
+background-color:azure;
+}
+
+#signup2form {
+color:red;
+font-size:14pt;
+}
+
+.signp {
+color:red;
+font-size:14pt;
+}
+
+.simple_text {
+font-color:black;
+font-style:regular;
+}
